@@ -13,7 +13,7 @@
 ### My Certifications 📚
 * [Google Data Analytics Certificate](https://coursera.org/share/6ab9663a4fabf8c28d4dfaf83724d43e)
 * [Google Project Management Certificate](https://coursera.org/share/763d65ac82989531243ce8ec1e0fb110)
-* [Google AI Essentials Certificate(https://www.coursera.org/account/accomplishments/specialization/CLMCESAJ40FL) 
+* [Google AI Essentials Certificate](https://www.coursera.org/account/accomplishments/specialization/CLMCESAJ40FL) 
 
 ### Let's Connect! ✨
 * [Linkedin](https://www.linkedin.com/in/shayla-rao/)
