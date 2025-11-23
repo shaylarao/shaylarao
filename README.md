@@ -1,5 +1,5 @@
 ## About Me 🙋🏽‍♀️
-
+Hi, my name is Shayla Rao and I am a Solutions Architect with 3+ years of experience and a B.S. in Computer Science & Bioinformatics. Fluent in APIs across CRM, data, and auth layers to connect tools, close workflow gaps, and ensure clean handoffs from discovery and demo through implementation and ongoing support. Drive adoption by building demos, onboarding plans, runbooks, training, and clear documentation that reduce time to value and improve user experience.
 
 ### My Skills 📚
 * Enablement: Onboarding, Training, POCs, Demos, A/B Testing, Change Management, Dashboards
